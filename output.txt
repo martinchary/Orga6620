@@ -1,0 +1,12 @@
+(base) martin@martinubuntu:~/Downloads/tp2-2q-2019/tp2/Orga6620$ ./tp2run prueba1.mem
+Miss rate: 0.944444 
+(base) martin@martinubuntu:~/Downloads/tp2-2q-2019/tp2/Orga6620$ ./tp2run prueba2.mem
+Miss rate: 0.500000 
+(base) martin@martinubuntu:~/Downloads/tp2-2q-2019/tp2/Orga6620$ ./tp2run prueba3.mem
+Miss rate: 0.470588 
+(base) martin@martinubuntu:~/Downloads/tp2-2q-2019/tp2/Orga6620$ ./tp2run prueba3b.mem
+Miss rate: 0.812500 
+(base) martin@martinubuntu:~/Downloads/tp2-2q-2019/tp2/Orga6620$ ./tp2run prueba4.mem
+Miss rate: 0.812500 
+(base) martin@martinubuntu:~/Downloads/tp2-2q-2019/tp2/Orga6620$ ./tp2run prueba5.mem
+Miss rate: 0.714286 
